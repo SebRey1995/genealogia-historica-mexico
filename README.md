@@ -138,6 +138,6 @@ Mismos campos con prefijo `prta_`.
 
 ## Créditos y licencia
 
-Proyecto desarrollado por **Sebastian Alberto Reyes Romero**, Ingeniero en Energías Renovables, investigador genealógico independiente y colaborador del Seminario de Genealogía Mexicana (base Sanchiz).
+Proyecto desarrollado por **Sebastian Alberto Reyes Romero**, Ingeniero en Energías Renovables, investigador genealógico independiente y colaborador del [Seminario de Genealogía Mexicana](https://gw.geneanet.org/sanchiz_w?lp=0).
 
 Los datos capturados en este repositorio son de libre uso para fines de investigación genealógica e histórica, siempre que se cite la fuente original de FamilySearch y este repositorio. Las imágenes de FamilySearch no se redistribuyen — solo se referencian mediante número de imagen.
