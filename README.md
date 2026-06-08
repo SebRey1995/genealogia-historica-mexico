@@ -118,36 +118,6 @@ Mismos campos con prefijo `prta_`.
 
 ---
 
-## Estructura del repositorio
-
-```
-genealogia-historica-mexico/
-│
-├── README.md
-├── PENDIENTES.md
-├── plantilla/
-│   └── plantilla_matrimonios.csv
-├── analisis/
-└── matrimonios/
-    └── informaciones_matrimoniales/
-        ├── veracruz/
-        │   └── naolinco/
-        │       ├── README.md
-        │       ├── mapas/
-        │       └── parroquia_naolinco/
-        │           ├── config.yml
-        │           └── 1647-1765.csv
-        └── puebla/
-            └── izucar_de_matamoros/
-                ├── README.md
-                ├── mapas/
-                └── santa_maria/
-                    ├── config.yml
-                    └── 1857-1858.csv
-```
-
----
-
 ## Colecciones documentadas
 
 | Estado | Municipio | Parroquia | Período | Registros capturados |
