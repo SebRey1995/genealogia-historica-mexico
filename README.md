@@ -122,8 +122,8 @@ Mismos campos con prefijo `prta_`.
 
 | Estado | Municipio | Parroquia | Período | Registros capturados |
 |---|---|---|---|---|
-| Veracruz | Naolinco | Parroquia de Naolinco | 1647–1765 | En progreso |
-| Puebla | Izúcar de Matamoros | Santa María | 1857–1858 | Pendiente |
+| Veracruz | Naolinco | San Mateo Apóstol |1647–1765 | En progreso |
+| Puebla | Izúcar de Matamoros | Santa María de la Asunción | 1857–1858 | Pendiente |
 
 ---
 
